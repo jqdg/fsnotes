@@ -307,17 +307,17 @@ class SidebarOutlineView: NSOutlineView,
         }
 
         // projects
-        var project: Project?
+        var project2: Project?
 
         if let sidebarItem = item as? SidebarItem, let sidebarProject = sidebarItem.project {
-            project = sidebarProject
+            project2 = sidebarProject
         }
 
         if let sidebarProject = item as? Project {
-            project = sidebarProject
+            project2 = sidebarProject
         }
 
-        guard let project = project else { return false }
+        guard let project = project2 else { return false }
 
         if urls.count > 0, Storage.sharedInstance().getBy(url: urls.first!) != nil {
             var notes = [Note]()
@@ -341,9 +341,9 @@ class SidebarOutlineView: NSOutlineView,
             return true
         }
 
-        guard let urls = board.readObjects(forClasses: [NSURL.self], options: nil) as? [URL] else { return false }
+        guard let urls2 = board.readObjects(forClasses: [NSURL.self], options: nil) as? [URL] else { return false }
 
-        for url in urls {
+        for url in urls2 {
             var isDirectory = ObjCBool(true)
             if FileManager.default.fileExists(atPath: url.path, isDirectory: &isDirectory), isDirectory.boolValue && !url.path.contains(".textbundle") {
 
@@ -803,24 +803,24 @@ class SidebarOutlineView: NSOutlineView,
         guard let vc = ViewController.shared(),
               let sidebarOutlineView = vc.sidebarOutlineView else { return }
 
-        var project = sidebarOutlineView.getSelectedProject()
+        var project2 = sidebarOutlineView.getSelectedProject()
 
         if sender is NSMenuItem,
             let mi = sender as? NSMenuItem,
             mi.title == NSLocalizedString("Add External Folder...", comment: "") {
-            project = nil
+            project2 = nil
         }
         
         if sender is SidebarCellView, let cell = sender as? SidebarCellView {
             if let objectProject = cell.objectValue as? Project {
-                project = objectProject
+                project2 = objectProject
             } else {
                 addRoot()
                 return
             }
         }
         
-        guard let project = project else {
+        guard let project = project2 else {
             addRoot()
             return
         }
@@ -1414,10 +1414,10 @@ class SidebarOutlineView: NSOutlineView,
     public func getAllTags() -> [String] {
         var tags: Set<String> = []
         var projects: [Project]? = getSidebarProjects()
-        let item = item(atRow: selectedRow) as? SidebarItem
+        let item2 = item(atRow: selectedRow) as? SidebarItem
 
 
-        if item?.type == .All || projects == nil {
+        if item2?.type == .All || projects == nil {
             projects = storage.getProjects().filter({ !$0.isTrash && !$0.isArchive && $0.showInCommon })
         }
 

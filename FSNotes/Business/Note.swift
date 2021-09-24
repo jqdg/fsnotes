@@ -201,7 +201,7 @@ public class Note: NSObject  {
             loadPreviewInfo()
         #else
             if !isTrash() && !project.isArchive && tags {
-                _ = loadTags()
+                loadTags()
             }
         #endif
 
