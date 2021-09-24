@@ -1,11 +1,11 @@
 /* No comment provided by engineer. */
-"Add" = "Добавить";
+"Add" = "הוסף";
 
 /* No comment provided by engineer. */
-"Add External Folder..." = "Подключить хранилище...";
+"Add External Folder..." = "הוסף תיקיה חיצונית...";
 
 /* Sidebar label */
-"Archive" = "Архив";
+"Archive" = "ארכיון";
 
 /* No comment provided by engineer. */
 "Are you really want to remove %d tag(s)? This action can not be undone." = "Вы действительно хотите удалить %d тег(ов)? Это действие не может быть отменено.";
@@ -17,55 +17,55 @@
 "Are you sure you want to remove project \"%@\" and all files inside?" = "Вы уверены что хотите удалить директорию \"%@\"?";
 
 /* No comment provided by engineer. */
-"Back up storage" = "Создать резервную копию";
+"Back up storage" = "גבה אחסון";
 
 /* Delete menu */
-"Cancel" = "Отмена";
+"Cancel" = "ביטול";
 
 /* Menu */
-"Change creation date" = "Изменить дату создания";
+"Change creation date" = "שנה תאריך יצירה";
 
 /* No comment provided by engineer. */
-"Check Grammar With Spelling" = "Проверить грамматику с орфографией";
+"Check Grammar With Spelling" = "בדוק דקדוק ביחד עם איות";
 
 /* No comment provided by engineer. */
-"Check Spelling While Typing" = "Проверять во время набора";
+"Check Spelling While Typing" = "בדוק איות תוך כדי הקלדה";
 
 /* No comment provided by engineer. */
-"Clear" = "Очистить";
+"Clear" = "נקה";
 
 /* No comment provided by engineer. */
-"Copy HTML" = "Скопировать HTML";
+"Copy HTML" = "העתק HTML";
 
 /* No comment provided by engineer. */
-"Copy Link" = "Скопировать ссылку";
+"Copy Link" = "העתק קישור";
 
 /* No comment provided by engineer. */
-"Copy Plain Text" = "Скопировать чистый текст";
+"Copy Plain Text" = "העתק מלל פשוט";
 
 /* No comment provided by engineer. */
-"Correct Spelling Automatically" = "Корректировать правописание";
+"Correct Spelling Automatically" = "תקן איות באופן אוטומטי";
 
 /* Menu */
-"Creation date:" = "Creation date:";
+"Creation date:" = "תאריך יצירה:";
 
 /* No comment provided by engineer. */
 "Current password does not match with password in keychain" = "Пароль не соответствует паролю в связке";
 
 /* No comment provided by engineer. */
-"Data Detectors" = "Детекторы данных";
+"Data Detectors" = "גלאי נתונים";
 
 /* No comment provided by engineer. */
 "Default storage path should not be equal to Git path." = "Путь к хранилищу по умолчанию не должен совпадать с путем Git.";
 
 /* No comment provided by engineer. */
-"Delete" = "Удаление";
+"Delete" = "מחק";
 
 /* No comment provided by engineer. */
-"Delete Folder" = "Удалить директорию";
+"Delete Folder" = "מחק תיקיה";
 
 /* No comment provided by engineer. */
-"Delete Tag" = "Удалить тег";
+"Delete Tag" = "מחק תג";
 
 /* No comment provided by engineer. */
 "Detach storage" = "Отключить хранилище";
@@ -74,197 +74,197 @@
 "Do you want to move current notes in the new destination?" = "Вы хотите переместить текущие заметки в новое место назначения?";
 
 /* No comment provided by engineer. */
-"Documents" = "Documents";
+"Documents" = "מסמכים";
 
 /* No comment provided by engineer. */
-"Edit Link…" = "Edit Link…";
+"Edit Link…" = "ערוך קישור...";
 
 /* No comment provided by engineer. */
-"Empty password" = "Не введен пароль";
+"Empty password" = "הסיסמה ריקה";
 
 /* No comment provided by engineer. */
-"Enter Master Password" = "Введите мастер пароль";
+"Enter Master Password" = "הכנס סיסמה ראשית";
 
 /* No comment provided by engineer. */
-"External Folders" = "Внешние директории";
+"External Folders" = "תיקיות חיצוניות";
 
 /* No comment provided by engineer. */
 "Folder with name '%@' already exist" = "Директория с названием '%@' уже существует";
 
 /* No comment provided by engineer. */
-"FSNotes [edit]" = "FSNotes [редактирование]";
+"FSNotes [edit]" = "FSNotes [עריכה]";
 
 /* No comment provided by engineer. */
-"FSNotes [preview]" = "FSNotes [предпросмотр]";
+"FSNotes [preview]" = "FSNotes [תצוגה]";
 
 /* No comment provided by engineer. */
-"History" = "История";
+"History" = "היסטוריה";
 
 /* No comment provided by engineer. */
 "iCloud Drive" = "iCloud Drive";
 
 /* No comment provided by engineer. */
-"Inbox" = "Входящие";
+"Inbox" = "תיבת דואר נכנס";
 
 /* No comment provided by engineer. */
-"Link" = "Ссылка";
+"Link" = "קישור";
 
 /* No comment provided by engineer. */
 "Lock All Encrypted" = "Заблокировать все секретные";
 
 /* No comment provided by engineer. */
-"Master password:" = "Мастер пароль:";
+"Master password:" = "סיסמה ראשית:";
 
 /* Menu */
-"Move" = "Переместить";
+"Move" = "העבר";
 
 /* No comment provided by engineer. */
-"New" = "Создать";
+"New" = "חדש";
 
 /* No comment provided by engineer. */
-"New folder" = "Создать директорию";
+"New folder" = "תיקיה חדשה";
 
 /* No comment provided by engineer. */
-"New project" = "Новая директория";
+"New project" = "פרויקט חדש";
 
 /* No comment provided by engineer. */
-"New RTF" = "Создать RTF";
+"New RTF" = "RTF חדש";
 
 /* No comment provided by engineer. */
-"No" = "Нет";
+"No" = "לא";
 
 /* No comment provided by engineer. */
 "Note with name \"%@\" already exists in selected directory." = "Заметка с названием \"%@\" уже существует в выбранной директории.";
 
 /* Sidebar label */
-"Notes" = "Заметки";
+"Notes" = "פתקים";
 
 /* No comment provided by engineer. */
-"OK" = "OK";
+"OK" = "אישור";
 
 /* Document opened */
-"Open note" = "Open note";
+"Open note" = "פתח פתק";
 
 /* No comment provided by engineer. */
 "Otherwise, the database of your notes will be available at: " = "В противном случае база данных заметок будет доступна по адресу: ";
 
 /* No comment provided by engineer. */
-"Path not available" = "Path not available";
+"Path not available" = "הנתיב אינו זמין";
 
 /* Edit area */
-"Please enter image title:" = "Пожалуйста, введите заголовок изображения:";
+"Please enter image title:" = "נא הכנס כותרת תמונה:";
 
 /* No comment provided by engineer. */
-"Please enter password for current note" = "Введите пароль для текущей заметки";
+"Please enter password for current note" = "נא הכבס סיסמה לפתק הנוכחי";
 
 /* No comment provided by engineer. */
-"Please enter project name:" = "Пожалуйста, введите название директории:";
+"Please enter project name:" = "נא הכנב שם פרויקט:";
 
 /* No comment provided by engineer. */
-"Please enter tag name:" = "Введите название тега:";
+"Please enter tag name:" = "נא הכנס שם תג:";
 
 /* Menu */
-"Please enter tags (comma separated):" = "Пожалуйста введите теги (через запятую):";
+"Please enter tags (comma separated):" = "נא הכנס תגים (מופרדים בפסיק):";
 
 /* No comment provided by engineer. */
-"Please try again" = "Пожалуйста, попробуйте ещё раз";
+"Please try again" = "נסה שוב";
 
 /* No comment provided by engineer. */
-"Preferences" = "Настройки";
+"Preferences" = "העדפות";
 
 /* No comment provided by engineer. */
-"Quit FSNotes" = "Выйти из FSNotes";
+"Quit FSNotes" = "סיים את FSNotes";
 
 /* No comment provided by engineer. */
-"Recents" = "Недавние";
+"Recents" = "אחרונים";
 
 /* No comment provided by engineer. */
 "Recents Search" = "Недавние запросы";
 
 /* Delete menu */
-"Remove" = "Удалить";
+"Remove" = "הסר";
 
 /* No comment provided by engineer. */
-"Remove Link" = "Remove Link";
+"Remove Link" = "הסר קישור";
 
 /* No comment provided by engineer. */
-"Remove note(s)" = "Удалить";
+"Remove note(s)" = "הסר פתקים";
 
 /* No comment provided by engineer. */
-"Remove Tags" = "Удалить теги";
+"Remove Tags" = "הסר תגים";
 
 /* No comment provided by engineer. */
-"Rename Folder" = "Переименовать директорию";
+"Rename Folder" = "שנה שם תיקיה";
 
 /* No comment provided by engineer. */
-"Rename Tag" = "Переименовать тег";
+"Rename Tag" = "שנה שם תג";
 
 /* No comment provided by engineer. */
-"Rename Tags" = "Переименовать теги";
+"Rename Tags" = "שנה שמות תגים";
 
 /* No comment provided by engineer. */
-"Search and create" = "Найти и создать";
+"Search and create" = "חיפוש ויצירה";
 
 /* No comment provided by engineer. */
-"Show in Finder" = "Показать в Finder";
+"Show in Finder" = "הצג ב-Finder";
 
 /* No comment provided by engineer. */
-"Show view options" = "Настроить вид";
+"Show view options" = "הצג אפשרויות תצוגה";
 
 /* No comment provided by engineer. */
-"Smart Copy/Paste" = "Смарт-копирование/вставка";
+"Smart Copy/Paste" = "העתקה והדבקה חכמות";
 
 /* No comment provided by engineer. */
-"Smart Dashes" = "Смарт-тире";
+"Smart Dashes" = "מיקוף חכם";
 
 /* No comment provided by engineer. */
-"Smart Links" = "Смарт-ссылки";
+"Smart Links" = "קישורים חכמים";
 
 /* No comment provided by engineer. */
-"Smart Quotes" = "Смарт-кавычки";
+"Smart Quotes" = "מרכאות חכמות";
 
 /* View menu */
-"Sort by" = "Сортировать по";
+"Sort by" = "מיין לפי";
 
 /* No comment provided by engineer. */
-"Spelling and Grammar" = "Орфография и грамматика";
+"Spelling and Grammar" = "איות ודקדוק";
 
 /* No comment provided by engineer. */
-"Substitutions" = "Замены";
+"Substitutions" = "החלפות";
 
 /* Menu
    Sidebar label */
-"Tags" = "Теги";
+"Tags" = "תגים";
 
 /* No comment provided by engineer. */
-"Text Replacement" = "Замена текста";
+"Text Replacement" = "מלל חלופי";
 
 /* Delete menu */
-"This action cannot be undone." = "Это действие не может быть отменено.";
+"This action cannot be undone." = "לא ניתן לחזור על פעולה זו.";
 
 /* No comment provided by engineer. */
-"Todo" = "Задачи";
+"Todo" = "מטלות";
 
 /* No comment provided by engineer. */
-"Toggle preview" = "Переключить предпросмотр";
+"Toggle preview" = "הצג/הסתר תצוגה מקדימה";
 
 /* Sidebar label */
-"Trash" = "Корзина";
+"Trash" = "פח אשפה";
 
 /* No comment provided by engineer. */
-"Underline" = "Подчёркнутый";
+"Underline" = "קו תחתון";
 
 /* No comment provided by engineer. */
-"Untagged" = "Без тегов";
+"Untagged" = "ללא תגים";
 
 /* Untitled Note */
-"Untitled Note" = "Без названия";
+"Untitled Note" = "פתק ללא שם";
 
 /* No comment provided by engineer. */
-"URL has been copied to clipboard" = "Ссылка была скопирована в буфер обмена";
+"URL has been copied to clipboard" = "הכתובת הועתקה";
 
 /* Menu */
-"View" = "Вид";
+"View" = "תצוגה";
 
 /* No comment provided by engineer. */
 "We are detect that you are install FSNotes from Mac App Store with default storage in iCloud Drive, do you want to move old database in iCloud Drive?" = "Мы обнаружили, что вы установили FSNotes из Mac App Store с хранилищем по умолчанию в iCloud Drive. Хотите ли вы перенести старую базу данных в iCloud  Drive?";
@@ -276,4 +276,4 @@
 "Wrong repeated password" = "Несоответствие паролей";
 
 /* No comment provided by engineer. */
-"Yes" = "Да";
+"Yes" = "כן";
