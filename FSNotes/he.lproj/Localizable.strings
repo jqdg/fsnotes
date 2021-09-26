@@ -8,13 +8,13 @@
 "Archive" = "ארכיון";
 
 /* No comment provided by engineer. */
-"Are you really want to remove %d tag(s)? This action can not be undone." = "Вы действительно хотите удалить %d тег(ов)? Это действие не может быть отменено.";
+"Are you really want to remove %d tag(s)? This action can not be undone." = "האם ברצונך להסיר %d תג(ים)? לא ניתן לבטל פעולה זו.";
 
 /* No comment provided by engineer. */
-"Are you sure you want to irretrievably delete %d note(s)?" = "Вы уверены что хотите выполнить необратимое удаление %d заметки(ок)?";
+"Are you sure you want to irretrievably delete %d note(s)?" = "האם ברצונך למחוק %d פתק(ים) באופן בלתי הפיך?";
 
 /* No comment provided by engineer. */
-"Are you sure you want to remove project \"%@\" and all files inside?" = "Вы уверены что хотите удалить директорию \"%@\"?";
+"Are you sure you want to remove project \"%@\" and all files inside?" = "האם ברצונך להסיר פרוייקט \"%@\" ואת כל הקבצים שבתוכו?";
 
 /* No comment provided by engineer. */
 "Back up storage" = "גבה אחסון";
@@ -50,13 +50,13 @@
 "Creation date:" = "תאריך יצירה:";
 
 /* No comment provided by engineer. */
-"Current password does not match with password in keychain" = "Пароль не соответствует паролю в связке";
+"Current password does not match with password in keychain" = "הסיסמה הנוכחית לא תואמת עם הסיסמה בצרור";
 
 /* No comment provided by engineer. */
 "Data Detectors" = "גלאי נתונים";
 
 /* No comment provided by engineer. */
-"Default storage path should not be equal to Git path." = "Путь к хранилищу по умолчанию не должен совпадать с путем Git.";
+"Default storage path should not be equal to Git path." = "נתיב האחסון צריך לא להיות שווה לנתיב Git.";
 
 /* No comment provided by engineer. */
 "Delete" = "מחק";
@@ -68,10 +68,10 @@
 "Delete Tag" = "מחק תג";
 
 /* No comment provided by engineer. */
-"Detach storage" = "Отключить хранилище";
+"Detach storage" = "נתק אחסון";
 
 /* No comment provided by engineer. */
-"Do you want to move current notes in the new destination?" = "Вы хотите переместить текущие заметки в новое место назначения?";
+"Do you want to move current notes in the new destination?" = "האם ברצונך להעביר את הפתקים הנוכחים ליעד החדש?";
 
 /* No comment provided by engineer. */
 "Documents" = "מסמכים";
@@ -89,7 +89,7 @@
 "External Folders" = "תיקיות חיצוניות";
 
 /* No comment provided by engineer. */
-"Folder with name '%@' already exist" = "Директория с названием '%@' уже существует";
+"Folder with name '%@' already exist" = "תיקיה בשם \"%@\" כבר קיימת.";
 
 /* No comment provided by engineer. */
 "FSNotes [edit]" = "FSNotes [עריכה]";
@@ -110,7 +110,7 @@
 "Link" = "קישור";
 
 /* No comment provided by engineer. */
-"Lock All Encrypted" = "Заблокировать все секретные";
+"Lock All Encrypted" = "נעל פתקים מוצפנים";
 
 /* No comment provided by engineer. */
 "Master password:" = "סיסמה ראשית:";
@@ -134,7 +134,7 @@
 "No" = "לא";
 
 /* No comment provided by engineer. */
-"Note with name \"%@\" already exists in selected directory." = "Заметка с названием \"%@\" уже существует в выбранной директории.";
+"Note with name \"%@\" already exists in selected directory." = "פתק בשם \"%@\" כבר קיים בתיקיה הנבחרת.";
 
 /* Sidebar label */
 "Notes" = "פתקים";
@@ -146,7 +146,7 @@
 "Open note" = "פתח פתק";
 
 /* No comment provided by engineer. */
-"Otherwise, the database of your notes will be available at: " = "В противном случае база данных заметок будет доступна по адресу: ";
+"Otherwise, the database of your notes will be available at: " = "אחרת, אחסון פתקיך יהיה נגיש ב:";
 
 /* No comment provided by engineer. */
 "Path not available" = "הנתיב אינו זמין";
@@ -179,7 +179,7 @@
 "Recents" = "אחרונים";
 
 /* No comment provided by engineer. */
-"Recents Search" = "Недавние запросы";
+"Recents Search" = "חיפושים אחרונים";
 
 /* Delete menu */
 "Remove" = "הסר";
@@ -240,7 +240,7 @@
 "Text Replacement" = "מלל חלופי";
 
 /* Delete menu */
-"This action cannot be undone." = "לא ניתן לחזור על פעולה זו.";
+"This action cannot be undone." = "לא ניתן לבטל פעולה זו.";
 
 /* No comment provided by engineer. */
 "Todo" = "מטלות";
@@ -267,13 +267,13 @@
 "View" = "תצוגה";
 
 /* No comment provided by engineer. */
-"We are detect that you are install FSNotes from Mac App Store with default storage in iCloud Drive, do you want to move old database in iCloud Drive?" = "Мы обнаружили, что вы установили FSNotes из Mac App Store с хранилищем по умолчанию в iCloud Drive. Хотите ли вы перенести старую базу данных в iCloud  Drive?";
+"We are detect that you are install FSNotes from Mac App Store with default storage in iCloud Drive, do you want to move old database in iCloud Drive?" = "שמנו לב שהתקנת FSNotes מה-App Store עם אחסון ב-iCloud Drive. האם ברצונך להעביר את המאגר הקודם ל-iCloud Drive?";
 
 /* No comment provided by engineer. */
-"We can not move \"{DST_PATH}\" because this item already exist in selected destination." = "Мы не можем переместить \\\"{DST_PATH}\\\", потому что этот путь уже существует в выбранном месте назначения.";
+"We can not move \"{DST_PATH}\" because this item already exist in selected destination." = "לא ניתן להעביר \\\"{DST_PATH}\\\" מפני שקובץ באותו שם כבר קיים ביעד הנבחר.";
 
 /* No comment provided by engineer. */
-"Wrong repeated password" = "Несоответствие паролей";
+"Wrong repeated password" = "הסיסמאות לא תואמות";
 
 /* No comment provided by engineer. */
 "Yes" = "כן";

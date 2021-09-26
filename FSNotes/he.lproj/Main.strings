@@ -299,7 +299,7 @@
 "IWL-lp-G1M.title" = "פורמט: Untitled Note";
 
 /* Class = "NSTextFieldCell"; title = "Markdown Preview CSS:"; ObjectID = "Icf-3C-atz"; */
-"Icf-3C-atz.title" = "CSS לתצוגת Markdown";
+"Icf-3C-atz.title" = "CSS לתצוגת Markdown:";
 
 /* Class = "NSButtonCell"; title = "Lock on screen saver activated"; ObjectID = "IlF-tS-GFG"; */
 "IlF-tS-GFG.title" = "נעל בהפעלת שומר מסך";
@@ -542,7 +542,7 @@
 "Ze0-SZ-STw.title" = "גבה באופן ידני";
 
 /* Class = "NSButtonCell"; title = "Note auto selection when body text matched"; ObjectID = "ZqK-gu-KdQ"; */
-"ZqK-gu-KdQ.title" = "Note auto selection when body text matched";
+"ZqK-gu-KdQ.title" = "בחירה אוטומטית בפתקים כשגוף הטקסט תואם";
 
 /* Class = "NSButtonCell"; title = "Show notes in \"Notes\" and \"Todo\" lists"; ObjectID = "Zzw-01-JH7"; */
 "Zzw-01-JH7.title" = "הצג פתקים ברשימות ״פתקים״ ו-״מטלות״";
