@@ -1604,6 +1604,7 @@ CA
                                                                             </subviews>
                                                                             <constraints>
                                                                                 <constraint firstItem="a5J-Ua-Hnz" firstAttribute="centerY" secondItem="xN2-Aa-G21" secondAttribute="centerY" id="3xr-WL-gvd"/>
+                                                                                <constraint firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="a5J-Ua-Hnz" secondAttribute="trailing" constant="20" symbolic="YES" id="B0X-ZD-bfn"/>
                                                                                 <constraint firstItem="ep1-Vk-rvO" firstAttribute="leading" secondItem="xN2-Aa-G21" secondAttribute="leading" constant="3" id="dQI-kA-EMe"/>
                                                                                 <constraint firstItem="ep1-Vk-rvO" firstAttribute="centerY" secondItem="xN2-Aa-G21" secondAttribute="centerY" id="eB4-Zv-R9l"/>
                                                                                 <constraint firstItem="a5J-Ua-Hnz" firstAttribute="leading" secondItem="xN2-Aa-G21" secondAttribute="leading" constant="3" id="rV2-yu-dpv"/>
@@ -1820,9 +1821,6 @@ CA
                                                     </scrollView>
                                                     <button verticalHuggingPriority="750" imageHugsTitle="YES" translatesAutoresizingMaskIntoConstraints="NO" id="TiA-aF-Uev">
                                                         <rect key="frame" x="212" y="548" width="21" height="27"/>
-                                                        <constraints>
-                                                            <constraint firstAttribute="width" constant="21" id="35K-8i-OMy"/>
-                                                        </constraints>
                                                         <buttonCell key="cell" type="roundRect" bezelStyle="roundedRect" image="new_note_button" imagePosition="overlaps" alignment="center" imageScaling="proportionallyDown" inset="2" id="Y7B-FM-tuq">
                                                             <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
                                                             <font key="font" metaFont="cellTitle"/>
@@ -1833,6 +1831,7 @@ CA
                                                     </button>
                                                 </subviews>
                                                 <constraints>
+                                                    <constraint firstItem="TiA-aF-Uev" firstAttribute="leading" secondItem="bd7-O3-GQF" secondAttribute="trailing" constant="15" id="0kI-rM-bW0"/>
                                                     <constraint firstAttribute="trailing" secondItem="bd7-O3-GQF" secondAttribute="trailing" constant="40" id="22G-me-b0r"/>
                                                     <constraint firstAttribute="trailing" secondItem="TiA-aF-Uev" secondAttribute="trailing" constant="4" id="Bwk-QM-Hza"/>
                                                     <constraint firstItem="TiA-aF-Uev" firstAttribute="top" secondItem="8ej-mX-KM6" secondAttribute="top" constant="25" id="WNt-DJ-R3r"/>
