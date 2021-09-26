@@ -497,7 +497,7 @@
 "UFh-mf-ZKG.title" = "בהיר";
 
 /* Class = "NSMenuItem"; title = "Code Span"; ObjectID = "Ukg-MO-eaB"; */
-"Ukg-MO-eaB.title" = " קוד מוטבע";
+"Ukg-MO-eaB.title" = "קוד מוטבע";
 
 /* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO"; */
 "Vdr-fp-XzO.title" = "הסתר אחרים";
@@ -656,7 +656,7 @@
 "fzY-c6-DaK.title" = "נעילה אוטומטית לפתקים מוצפנים:";
 
 /* Class = "NSButtonCell"; title = "Scan inline tags"; ObjectID = "g5W-YF-jAC"; */
-"g5W-YF-jAC.title" = "Scan inline tags";
+"g5W-YF-jAC.title" = "סרוק תגים מוטבעים";
 
 /* Class = "NSMenuItem"; title = "Paste"; ObjectID = "gVA-U4-sdL"; */
 "gVA-U4-sdL.title" = "הדבק";
@@ -710,7 +710,7 @@
 "ioc-u5-XRA.title" = "רמז:";
 
 /* Class = "NSMenuItem"; title = "Custom"; ObjectID = "j8S-CW-gCM"; */
-"j8S-CW-gCM.title" = "Custom";
+"j8S-CW-gCM.title" = "מותאם";
 
 /* Class = "NSMenuItem"; title = "Pin/unpin"; ObjectID = "jFN-Dp-LON"; */
 "jFN-Dp-LON.title" = "הצמד/בטל הצמדה";
@@ -899,11 +899,11 @@
 /* Class = "NSMenuItem"; title = "Speech"; ObjectID = "xrE-MZ-jX0"; */
 "xrE-MZ-jX0.title" = "הקראה";
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "xxB-ic-LFu"; */
-"xxB-ic-LFu.title" = "None";
+"xxB-ic-LFu.title" = "ללא";
 /* Class = "NSTextFieldCell"; title = "Name"; ObjectID = "y7T-Rc-etT"; Note = "#bc-ignore!"; */
 "y7T-Rc-etT.title" = "שם";
 /* Class = "NSButtonCell"; title = "Automatically insert closing braces and close quotes"; ObjectID = "ypO-g0-1Xo"; */
-"ypO-g0-1Xo.title" = "Automatically insert closing braces and close quotes";
+"ypO-g0-1Xo.title" = "הכנס באופן אוטומטי סוגריים ומרכאות סוגרים";
 /* Class = "NSMenuItem"; title = "Image or file"; ObjectID = "yx6-SW-3vn"; */
 "yx6-SW-3vn.title" = "תמונה או קובץ";
 /* Class = "NSMenuItem"; title = "Show Substitutions"; ObjectID = "z6F-FW-3nz"; */
