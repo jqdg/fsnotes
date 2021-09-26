@@ -2,7 +2,7 @@
 "05n-RU-nOV.title" = "מיין לפי";
 
 /* Class = "NSTextFieldCell"; title = "Translators:"; ObjectID = "13t-eQ-kOr"; */
-"13t-eQ-kOr.title" = "מתרגמים‫:‬:";
+"13t-eQ-kOr.title" = "מתרגמים‫:";
 
 /* Class = "NSTextFieldCell"; placeholderString = "TextEdit"; ObjectID = "1XY-bI-DX7"; */
 "1XY-bI-DX7.placeholderString" = "TextEdit";
@@ -119,7 +119,7 @@
 "7me-g8-vOq.title" = "סיסמה נוכחית:";
 
 /* Class = "NSButtonCell"; title = "Set"; ObjectID = "7od-TM-cUB"; */
-"7od-TM-cUB.title" = "Set";
+"7od-TM-cUB.title" = "בחר";
 
 /* Class = "NSButtonCell"; title = "Change"; ObjectID = "7xA-9l-dja"; */
 "7xA-9l-dja.title" = "שנה";
@@ -188,7 +188,7 @@
 "DWe-bx-jfM.title" = "כותרת 5";
 
 /* Class = "NSMenuItem"; title = "Medium"; ObjectID = "DcN-1g-hEi"; */
-"DcN-1g-hEi.title" = "Medium";
+"DcN-1g-hEi.title" = "בינוני";
 
 /* Class = "NSMenuItem"; title = ".rtf"; ObjectID = "DdA-4M-JZH"; */
 "DdA-4M-JZH.title" = ".rtf";
@@ -401,7 +401,7 @@
 "PdU-Em-Ugm.title" = "הצג/הסתר תצוגה מקדימה";
 
 /* Class = "NSButtonCell"; title = "Use 4 spaces instead tab"; ObjectID = "Poh-KB-4ws"; */
-"Poh-KB-4ws.title" = "Use 4 spaces instead tab";
+"Poh-KB-4ws.title" = "השתמש ב-4 רווחים במקום טאב";
 
 /* Class = "NSTextFieldCell"; title = "Background:"; ObjectID = "Psk-r4-JT5"; */
 "Psk-r4-JT5.title" = "רקע:";
@@ -578,7 +578,7 @@
 "c8a-y6-VQd.title" = "המרות";
 
 /* Class = "NSMenuItem"; title = "Big"; ObjectID = "cUI-cw-eo5"; */
-"cUI-cw-eo5.title" = "Big";
+"cUI-cw-eo5.title" = "גדול";
 
 /* Class = "NSMenuItem"; title = "Header 2"; ObjectID = "cYB-6U-8ac"; */
 "cYB-6U-8ac.title" = "כותרת 2";
@@ -698,7 +698,7 @@
 "iIP-wI-OaZ.title" = "גבה עכשיו";
 
 /* Class = "NSTextFieldCell"; title = "Deutsch 🇩🇪\nUkrainian🇺🇦\nSpanish 🇪🇸\nArabic 🇮🇶\nChinese (Simplified) 🇨🇳\nKorean 🇰🇷\nFrench 🇫🇷 Dutch 🇳🇱\nPortuguese 🇵🇹\nItalian 🇮🇹"; ObjectID = "iKE-bp-SFG"; Note = "#bc-ignore!"; */
-"iKE-bp-SFG.title" = "Deutsch 🇩🇪\nUkrainian🇺🇦\nSpanish 🇪🇸\nArabic 🇮🇶\nChinese (Simplified) 🇨🇳\nKorean 🇰🇷\nFrench 🇫🇷 Dutch 🇳🇱\nPortuguese 🇵🇹\nItalian 🇮🇹";
+"iKE-bp-SFG.title" = "גרמנית 🇩🇪\nאוקראינית 🇺🇦\nספרדית 🇪🇸\nערבית 🇮🇶\nסינית (מפושטת) 🇨🇳\nקוריאנית 🇰🇷\nצרפתית 🇫🇷\nהולנדית 🇳🇱\nפורטוגזית 🇵🇹\nאיטלקית 🇮🇹\nעברית 🇮🇱";
 
 /* Class = "NSTextFieldCell"; title = "New password:"; ObjectID = "iNK-dg-n5E"; */
 "iNK-dg-n5E.title" = "סיסמה חדשה:";
@@ -839,7 +839,7 @@
 "s6A-tQ-Sbe.title" = "הבא הכל קדימה";
 
 /* Class = "NSButtonCell"; title = "Back up every"; ObjectID = "sAn-Wm-FfY"; */
-"sAn-Wm-FfY.title" = "גבה כל";
+"sAn-Wm-FfY.title" = "גבה אוטומטית כל";
 
 /* Class = "NSMenuItem"; title = "Move Up In The Sidebar"; ObjectID = "sdE-ZM-6cq"; */
 "sdE-ZM-6cq.title" = "עבור למעלה בסרגל הצד";
