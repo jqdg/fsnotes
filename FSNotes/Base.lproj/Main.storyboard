@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.Storyboard.XIB" version="3.0" toolsVersion="18122" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES">
+<document type="com.apple.InterfaceBuilder3.Cocoa.Storyboard.XIB" version="3.0" toolsVersion="17701" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES">
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="18122"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="17701"/>
         <capability name="Named colors" minToolsVersion="9.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
@@ -1585,7 +1585,7 @@ CA
                                                                                     <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                                                                     <subviews>
                                                                                         <textField identifier="cellDate" autoresizesSubviews="NO" horizontalHuggingPriority="251" verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="abw-Lq-K7d">
-                                                                                            <rect key="frame" x="167" y="99" width="48" height="16"/>
+                                                                                            <rect key="frame" x="166" y="99" width="49" height="16"/>
                                                                                             <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" alignment="right" title="2/23/11" id="9w3-fa-di3">
                                                                                                 <font key="font" metaFont="system"/>
                                                                                                 <color key="textColor" name="highlight"/>
@@ -1788,7 +1788,7 @@ CA
                                                                         <rect key="frame" x="12" y="11" width="66" height="16"/>
                                                                         <subviews>
                                                                             <button translatesAutoresizingMaskIntoConstraints="NO" id="Ote-7U-BZm">
-                                                                                <rect key="frame" x="0.0" y="-2.5" width="16" height="22"/>
+                                                                                <rect key="frame" x="0.0" y="0.0" width="16" height="16"/>
                                                                                 <constraints>
                                                                                     <constraint firstAttribute="height" constant="16" id="KX9-jI-cyF"/>
                                                                                     <constraint firstAttribute="width" constant="16" id="fyl-XF-faY"/>
@@ -1802,7 +1802,7 @@ CA
                                                                                 </connections>
                                                                             </button>
                                                                             <button verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="Bn7-FD-jzc">
-                                                                                <rect key="frame" x="25" y="-2" width="16.5" height="20"/>
+                                                                                <rect key="frame" x="25" y="0.0" width="16" height="16"/>
                                                                                 <constraints>
                                                                                     <constraint firstAttribute="width" constant="16" id="cL1-PF-gSQ"/>
                                                                                     <constraint firstAttribute="height" constant="16" id="mhf-Ok-C0D"/>
@@ -1816,7 +1816,7 @@ CA
                                                                                 </buttonCell>
                                                                             </button>
                                                                             <button verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="oDB-Y6-20P">
-                                                                                <rect key="frame" x="50" y="-3" width="16.5" height="24"/>
+                                                                                <rect key="frame" x="50" y="0.0" width="16" height="16"/>
                                                                                 <constraints>
                                                                                     <constraint firstAttribute="width" constant="16" id="FOv-xI-qeM"/>
                                                                                     <constraint firstAttribute="height" constant="16" id="cQg-Gn-wlM"/>
@@ -3334,9 +3334,9 @@ Italian 🇮🇹</string>
         </scene>
     </scenes>
     <resources>
-        <image name="NSLockLockedTemplate" width="14" height="15"/>
-        <image name="NSQuickLookTemplate" width="21" height="13"/>
-        <image name="NSShareTemplate" width="15" height="17"/>
+        <image name="NSLockLockedTemplate" width="10" height="14"/>
+        <image name="NSQuickLookTemplate" width="19" height="12"/>
+        <image name="NSShareTemplate" width="11" height="16"/>
         <image name="dockIcon2" width="67" height="67"/>
         <image name="dockIcon4" width="64" height="64"/>
         <image name="icon" width="1024" height="1024"/>
